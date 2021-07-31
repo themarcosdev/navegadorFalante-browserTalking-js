@@ -1,0 +1,14 @@
+{
+"name": "Navegador Falante",
+"version": "1.0",
+"icons":{"16":"src/mic-icon.png",
+        "48":"src/mic-icon.png",
+        "128":"src/mic-icon.png"
+
+},
+"description":"Esta extensão transforma seu texto em áudio e está em desenvolvimento //@themarcosdev" 
+"browser_action":{
+  "default_popup": "index.html"
+  },
+"manifest_version":2
+}
