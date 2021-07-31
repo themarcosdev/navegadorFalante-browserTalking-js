@@ -1,12 +1,12 @@
 {
-"name": "Navegador Falante",
+"name": "Narrador do Navegador",
 "version": "1.0",
-"icons":{"16":"src/mic-icon.png",
-        "48":"src/mic-icon.png",
-        "128":"src/mic-icon.png"
+"icons":{"16":"src/spk.png",
+        "48":"src/spk.png",
+        "128":"src/spk.png"
 
 },
-"description":"Esta extensão transforma seu texto em áudio e está em desenvolvimento //@themarcosdev" 
+"description":"Esta extensão transforma seu texto em áudio e está em desenvolvimento //@themarcosdev" ,
 "browser_action":{
   "default_popup": "index.html"
   },
